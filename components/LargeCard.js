@@ -1,5 +1,5 @@
 /** @format */
-import Image from "next/image";
+import Image from "next/dist/client/image";
 
 function LargeCard({ img, title, description, buttonText }) {
   return (
